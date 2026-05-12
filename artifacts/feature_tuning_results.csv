@@ -1,0 +1,5 @@
+name,max_features,ngram_range,validation_accuracy
+3000_unigram,3000,"(1, 1)",0.9447612259444048
+5000_unigram,5000,"(1, 1)",0.9465431218816821
+5000_unigram_bigram,5000,"(1, 2)",0.9422665716322167
+8000_unigram_bigram,8000,"(1, 2)",0.9404846756949394

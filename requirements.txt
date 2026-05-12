@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+requests
+pandas
+numpy
+scikit-learn
+nltk
+matplotlib
+joblib
+seaborn
+wordcloud
+Pillow

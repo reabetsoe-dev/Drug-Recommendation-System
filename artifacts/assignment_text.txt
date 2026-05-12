@@ -1,0 +1,223 @@
+
+--- PAGE 1 ---
+Limkokwing University of Creative Technology 
+ 
+ 
+ 
+ 
+Page 1 of 5 
+ 
+BIAI3210 / BIAI4212 ● Artificial Intelligence 
+  
+Faculty  : Information & Communication Technology  
+Progam              : BSc in Information Technology / BSc in Software Engineering with 
+Multimedia 
+Semester  : 2 
+Unit Controller : MAKHEKA, 22315767 Ext. 45 
+Commence Date : 13th April 2026 
+Deadline Date  : 8th May 2026 before 11:30am  
+ 
+BUSINESS OBJECTIVE: 
+The business objective of this project is to classify patient condition using drug review, namely 
+Depression, High Blood Pressure, and Type 2 Diabetes. The goal is to understand the effectiveness of 
+drugs for specific conditions and their potential side ef fects by analyzing patient reviews, ratings, and 
+useful counts. The insights gained from this analysis can be used to recommend suitable drugs for 
+patients based on their condition and the experiences of other patients with similar conditions. 
+FEATURES: 
+• DrugName (categorical): The name of the drug that the patient is reviewing. This feature will be 
+used to group reviews by drug and analyze the effectiveness of each drug for specific 
+conditions. 
+• Condition (categorical): The name of the condition that the patient is reviewing the drug for. 
+This feature will be used to identify reviews related to Depression, High Blood Pressure, and 
+Type 2 Diabetes. 
+• Review (text): The patient's review of the drug. This feature will be used to extract insights on 
+the effectiveness and potential side effects of drugs for specific conditions. 
+• Rating (numerical): A 10-star patient rating reflecting overall patient satisfaction with the drug. 
+This feature will be used to understand the level of patient satisfaction with different drugs for 
+specific conditions. 
+Group Assignment 
+30% 
+ 
+
+--- PAGE 2 ---
+Limkokwing University of Creative Technology 
+ 
+ 
+ 
+ 
+Page 2 of 5 
+ 
+• Date (date): The date on which the review was entered. This feature will be used to analyze 
+trends over time in patient reviews and ratings. 
+• UsefulCount (numerical): The number of users who found the review useful. This feature will be 
+used to identify reviews that are likely to be helpful in understanding the effectiveness and 
+potential side effects of drugs for specific conditions. 
+OR 
+ATTRIBUTE INFORMATION: 
+1. drugName (categorical): name of drug 
+2. condition (categorical): name of condition 
+3. review (text): patient review 
+4. rating (numerical): 10 star patient rating 
+5. date (date): date of review entry 
+6. usefulCount (numerical): number of users who found review useful 
+Your subtasks are to perform the following on a given dataset and provide reports on some of 
+the pipeline steps. 
+The combined report shall be at least 10 pages. 
+ 
+Task 1 Data gathering and cleaning 
+a. Missing values [5] 
+b. Outliers [5] 
+c. Descriptive analysis [5] Statistical 
+methodologies 
+ 
+[15] 
+Task 2 Data Prepossessing 
+a. Feature extraction [5] 
+b. Feature tuning [5] 
+ 
+[10] 
+Task 3 Model Determination [5] 
+a. Provide reasoning for determined model [5] 
+Task 4 Model Training [10] [10] 
+Task 5 Model Tuning [10] [10] 
+Task 6 Prediction dashboard 
+a. Your solution must allow for inserting of the patient condition or symptoms then predict the drug 
+to be used by the patient, moreover the reviews will be used to check the effectiveness of the 
+drug. The  predicted patient conditions based on drug reviews, and the insights gained can be 
+used to recommend suitable drugs for patients based on their condition and the experiences of 
+other patients with similar conditions.  
+ 
+[10] 
+Task 7 Report format 
+a. You are submitting one (1) printed copy and one (1) softcopy via Google Classroom 
+ 
+[3] 
+ 
+
+--- PAGE 3 ---
+Limkokwing University of Creative Technology 
+ 
+ 
+ 
+ 
+Page 3 of 5 
+ 
+Take care that some of these steps are iterative, you will need to provide reasoning in your report for 
+any and all reasons any decision were altered. 
+Following the above, you are to prepare a 10 -minute presentation of your process; you presentation 
+must include the following: 
+Task 8 Power point presentation 
+a. Data visualization [4] 
+At least 4 different figures 
+b. Steps taken in the model creation [3] 
+c. Performance matrix and accuracy [3] 
+d. Presentation [10] 
+ 
+ 
+[20] 
+Task 8 You will be provided formatted out of sample data that will be used to test your model; 
+this data will be provided only on the day of presentation. 
+ 
+Accuracy 
+  45 
+  55 
+  65 
+  75 
+  85 
+  100 
+Mark 0 2 5 6 8 10 
+[10] 
+ 
+Before completion of you project and presentation, you need to prepare and avail a GitHub link 
+to your complete model. 
+The solution MUST have the following 
+1. A readme file to describe the intent of the project [10] 
+2. A file detailing the model creation. [7] 
+EXPECTED OUTCOME: 
+Upon completion of the Course, student will be able to understand how machine learning 
+addresses the fundamental question of how to build computer programs that could learn 
+automatically from experience. 
+SUBMISSION INFORMATION: 
+• Student is expected to submit the assignment as a soft  copy(USB Drive) ,your work must 
+in one folder with your name and student ID 
+• Student who submits this assignment later than the deadline date stated above will be 
+penalized by 5% per week for late submission. 
+RULES AND REGULATIONS: 
+• You are to complete this assignment as a group. 
+• You are NOT allowed to work together with other groups to get a detailed solution, 
+to copy a solution from the internet or any sources,  or           to give away a solution by 
+       
+       
+ 
+
+--- PAGE 4 ---
+Limkokwing University of Creative Technology 
+ 
+ 
+ 
+ 
+Page 4 of 5 
+ 
+doing this you will be awarded zero(0). 
+• If there is too much collaboration from your common discussion with other groups by 
+looking at the  solutions, in such instances of academic dishonesty may result in you 
+getting zero marks for this piece of assignment. 
+• Do NOT let others see your solution. 
+• Do NOT e-mail your solution to anyone. 
+• If someone cheats by using your work, you will be penalized. 
+SUBMISSION INFORMATION 
+• Student who submits this Assignment later than the deadline date stated above will have marks 
+penalized. (10% of the total mark everyday) 
+• Print out the Assignment by using Arial Narrow font style and size of 12 by using Microsoft Word. 
+• You must submit the work with an assignment cover page stapled together as submission. 
+• Show responsibilities of each member. And every group must have 5 to 9 members per group 
+ 
+SPECIFIC INFORMATION 
+• PLEASE submit a hardcopy of your assignment being a report of your system with a cover page 
+and the report should be in this layout:  abstract, introduction, “body”, conclusion, and it 
+should be 10 - 15 pages excluding reference page. 
+• You must submit a softcopy to assignluct@gmail.com of your system on 8th May 2026.  
+• This Assignment is a group work, and it contributes 30% to your overall semester 
+assessment. 
+• Referencing and layout must follow the IEEE style of referencing with at least 20 references. 
+MARKING CRITERIA 
+The following is the marks deduction: 
+• Late submission = 10% per day of your total marks irrespective of reasons and excuses 
+• Improper indentation = -5% is awarded if there's more than 3 lines of improper indentation. 
+• Not following question requirements = 0 % is awarded immediately 
+• Plagiarism = 0% is awarded immediately. 
+• No Reference = 0% is awarded immediately 
+
+--- PAGE 5 ---
+Limkokwing University of Creative Technology 
+ 
+ 
+ 
+ 
+Page 5 of 5 
+ 
+• Let others copy your work = 0% is awarded immediately. 
+MARKS ALLOCATION 
+• Presentation                 =10% 
+• System                         =60%     
+• Report                          =30% 
+ 
+ 
+MARKING ALLOCATIONS MARKS MARKS ALLOCATED 
+Report 30%  
+1. Abstract 5  
+2. Introduction 5  
+3. Body  10  
+4. Conclusion 5  
+5. Layout of the report 5  
+                                                                                                             30  
+PRESENTATION (PREPARED SLIDES)                                                           10%  
+                                                                                                           10  
+System  60%  
+1. Functional requirement 20  
+2. Readability  10  
+3. Consistency 10  
+4. Performance 5  
+5. Exception handling 15  
+                                                                                                            60  
+TOTAL MARKS  100  

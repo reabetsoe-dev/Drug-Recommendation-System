@@ -1,0 +1,3 @@
+model,test_accuracy,best_params
+Logistic Regression,0.9620360551431602,"{'C': 10, 'penalty': 'l2', 'solver': 'lbfgs'}"
+Multinomial Naive Bayes,0.9490986214209968,{'alpha': 0.1}
